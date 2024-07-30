@@ -14,7 +14,7 @@ Discover Pyjama Coin, a revolutionary digital currency that brings the beloved T
 
 - **Main Website:** [![Website](https://img.icons8.com/fluent/48/000000/internet.png) https://pyjama-coin.com](https://pyjama-coin.com)
 - **Subdomain:** [![Subdomain](https://img.icons8.com/fluent/48/000000/internet.png) https://sub.pyjama-coin.com](https://sub.pyjama-coin.com)
-- **Token on Solscan:** [![Solscan](https://img.icons8.com/color/48/000000/solana.png) Pyjama-Coin Token](https://solscan.io/token/66FWhwydns46djY67CGf3aMxom1858JGzK2F4tLZtZ9i)
+- **Token on Solscan:** [![Solscan](./public/images/sol.png) Pyjama-Coin Token](https://solscan.io/token/66FWhwydns46djY67CGf3aMxom1858JGzK2F4tLZtZ9i)
 - **X (formerly Twitter):** [![X](https://img.icons8.com/color/48/000000/twitter--v1.png) https://x.com/pyjamacoin](https://x.com/pyjamacoin)
 - **Instagram:** [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png) https://www.instagram.com/pyjamacoin2024/](https://www.instagram.com/pyjamacoin2024/)
 - **Telegram:** [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png) https://t.me/Pyjamacoin](https://t.me/Pyjamacoin)
